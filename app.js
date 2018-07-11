@@ -1,5 +1,5 @@
 function makeList(item1, item2, item3) {
-  // your code here
+  return [item1, item2, item3];
 }
 
 /* From here down, you are not expected to 
